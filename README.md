@@ -28,9 +28,16 @@ Scatter plots were created with Plotly Express and hvplot to visualize the disti
 
 ## 3D Clusters Scatterplot:
 
+<img width="783" alt="image" src="https://user-images.githubusercontent.com/106691255/203685056-c95df7e1-142c-4822-84bf-1b463a247bca.png">
+
 ## Tradable Cryptocurrencies Table:
+
+<img width="877" alt="image" src="https://user-images.githubusercontent.com/106691255/203685107-4498435f-577d-42d2-a2c8-c5933490ee95.png">
 
 ## Clustered DataFrame:
 
+<img width="843" alt="image" src="https://user-images.githubusercontent.com/106691255/203685189-fddd2cca-3167-4803-bbb8-79817fad2a94.png">
+
 ## Coin Scatterplot:
 
+<img width="1004" alt="image" src="https://user-images.githubusercontent.com/106691255/203685232-74e7d476-0e19-4784-9845-ebc00e88400c.png">
